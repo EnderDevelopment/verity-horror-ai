@@ -1,0 +1,29 @@
+{
+	"entity.verity.ambient": {
+		"subtitle": "sound.horror.entity.verity.ambient",
+		"sounds": [
+			"horror:entity/verity/ambient1",
+			"horror:entity/verity/ambient2",
+			"horror:entity/verity/ambient3"
+		]
+	},
+	"entity.verity.hurt": {
+		"subtitle": "sound.horror.entity.verity.hurt",
+		"sounds": [
+			"horror:entity/verity/hurt1",
+			"horror:entity/verity/hurt2"
+		]
+	},
+	"entity.verity.scream": {
+		"subtitle": "sound.horror.entity.verity.scream",
+		"sounds": [
+			"horror:entity/verity/scream"
+		]
+	},
+	"entity.verity.teleport": {
+		"subtitle": "sound.horror.entity.verity.teleport",
+		"sounds": [
+			"horror:entity/verity/teleport"
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "horror",
+	"version": "${version}",
+	"name": "Verity Horror",
+	"description": "A terrifying intelligence stalks the darkness. Hunted, or hunter?",
+	"authors": [
+		"EnderDevelopment"
+	],
+	"contact": {},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.enderdevelopment.horror.VerityMod"
+		],
+		"client": [
+			"com.enderdevelopment.horror.client.VerityModClient"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

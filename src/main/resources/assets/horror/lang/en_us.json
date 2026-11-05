@@ -1,0 +1,9 @@
+{
+	"item.horror.verity_spawn_egg": "Verity Spawn Egg",
+	"item.horror.hollow_bell": "Hollow Bell",
+	"entity.horror.verity": "Verity",
+	"sound.horror.entity.verity.ambient": "Verity whispers",
+	"sound.horror.entity.verity.hurt": "Verity screeches",
+	"sound.horror.entity.verity.scream": "Verity screams",
+	"sound.horror.entity.verity.teleport": "Darkness shifts"
+}
